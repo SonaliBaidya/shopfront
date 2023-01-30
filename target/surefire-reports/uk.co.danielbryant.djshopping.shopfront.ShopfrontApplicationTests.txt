@@ -1,4 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: uk.co.danielbryant.djshopping.shopfront.ShopfrontApplicationTests
 -------------------------------------------------------------------------------
+<<<<<<< HEAD
 Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.429 sec - in uk.co.danielbryant.djshopping.shopfront.ShopfrontApplicationTests
+=======
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.952 sec - in uk.co.danielbryant.djshopping.shopfront.ShopfrontApplicationTests
+>>>>>>> 2d2e42654e53ab1e04c50e00132113c83369711c
