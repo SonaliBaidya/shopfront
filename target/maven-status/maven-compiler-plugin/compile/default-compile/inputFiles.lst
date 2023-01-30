@@ -1,9 +1,0 @@
-/shopfront/src/main/java/uk/co/danielbryant/djshopping/shopfront/services/ProductService.java
-/shopfront/src/main/java/uk/co/danielbryant/djshopping/shopfront/services/dto/ProductDTO.java
-/shopfront/src/main/java/uk/co/danielbryant/djshopping/shopfront/resources/ProductResource.java
-/shopfront/src/main/java/uk/co/danielbryant/djshopping/shopfront/repo/StockRepo.java
-/shopfront/src/main/java/uk/co/danielbryant/djshopping/shopfront/repo/ProductRepo.java
-/shopfront/src/main/java/uk/co/danielbryant/djshopping/shopfront/model/Product.java
-/shopfront/src/main/java/uk/co/danielbryant/djshopping/shopfront/ShopfrontApplication.java
-/shopfront/src/main/java/uk/co/danielbryant/djshopping/shopfront/services/dto/StockDTO.java
-/shopfront/src/main/java/uk/co/danielbryant/djshopping/shopfront/controllers/HomeController.java
